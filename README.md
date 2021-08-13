@@ -1,7 +1,8 @@
-### Hi there 👋
 
 
-## My name is Jão Lírio and I'm a developer fullstack Java Jr
+
+## My name is Jão Lírio and I'm a developer fullstack Java Jr🤯👽
+#### Seja Bem-vinde ao meu laboratório ♟🔬💻
 <!-- painel de nota-->
  <div>
   <a href="https://github.com/jlirio">
