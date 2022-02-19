@@ -20,7 +20,11 @@
   <img align="center" alt="Jão-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Jao-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Jao-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+ <img align="center" alt="Jao-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+ <img align="center" alt="Jao-BitBucket" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
+ <img align="center" alt="Jao-JetBrains" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
  
+
   <img align="right"  width="150" alt="Jao-Gif" src="https://cdn.discordapp.com/attachments/510978563478913025/875783488152948746/ezgif.com-gif-maker_2.gif">
 </div>
   
